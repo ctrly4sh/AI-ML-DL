@@ -1,0 +1,31 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wikipedia Search</title>
+  </head>
+  <body>
+    <form action="/search" method="post">
+      <div>
+        <label for="search">Enter a Wikipedia topic:</label>
+        <input type="text" name="search" id="search" />
+      </div>
+
+      <div>
+        <label for="lines">Enter a number of lines :</label>
+        <input
+          type="number"
+          id="lines"
+          name="lines"
+          min="5"
+          max="50"
+          required
+        />
+      </div>
+
+      <button type="submit">Search</button>
+    </form>
+  </body>
+</html>
