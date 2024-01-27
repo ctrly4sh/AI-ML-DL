@@ -1,6 +1,6 @@
 # python_learning
-This my first python mini project , it is not styled
-this used wikipedia lib , which can be installed using :
+This my first python mini project , it is not styled yet , 
+this uses wikipedia lib , which can be installed using :
 => pip install wikipedia [pip is needed to be installed ]
 
 This simply takes a input and return the related content from the
