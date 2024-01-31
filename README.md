@@ -1,5 +1,4 @@
-# python_learning
-This my first python mini project , it is not styled yet , 
+Machine Learning using python and JS -> mini project : 01 
 this uses wikipedia lib , which can be installed using :
 => pip install wikipedia [pip is needed to be installed ]
 
