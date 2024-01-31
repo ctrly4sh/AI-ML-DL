@@ -1,11 +1,5 @@
-Machine Learning using python and JS -> mini project : 01 
-this uses wikipedia lib , which can be installed using :
-=> pip install wikipedia [pip is needed to be installed ]
+Roadmap for learning Machine learning : 
 
-This simply takes a input and return the related content from the
-wikipedia [most ai were built using this at initial stages] and displays the data
+AS of now i made a simple roadmap for my ml learning , to focus on only Mathematics
 
-Uses : Flask
-
-Steps to RUN : 
-=> just run app.py
+![image](https://github.com/ctrly4sh/Machine_Learning_Journey/assets/149458186/9d385734-df46-4d4f-9954-b98286717dd5)
