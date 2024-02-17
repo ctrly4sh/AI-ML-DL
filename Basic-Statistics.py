@@ -8,7 +8,14 @@ DATA_set = [99,86,87,88,111,86,103,87,94,78,77,85,86]
 resultMean = Mean(DATA_set)
 # print(resultMean)
 
- 
+ def Median(DATA):
+    import numpy as np
+    meanResult = np.median(DATA)
+    return meanResult
+
+DATA_set = [99,86,87,88,111,86,103,87,94,78,77,85,86]
+resultMedeain = Median(DATA_set) 
+# print(resultMedeain)
 
 DATA_set = [99,86,87,88,111,86,103,87,94,78,77,85,86]
 resultMedeain = Median(DATA_set) 
