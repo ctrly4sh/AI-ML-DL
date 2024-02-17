@@ -17,7 +17,7 @@ resultMedeain = Median(DATA_set)
 
 # Median using numpy in python
 def Mode(DATA):
-    from scipy import stats 
+    from scipy import stats # install scipy using pip , numpy doesnt have a function for mode  
     modeResult = stats.mode(DATA)
     return modeResult
 
