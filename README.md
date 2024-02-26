@@ -1,3 +1,6 @@
+Medium link to follow for a detailed roadmap for -> AI & ML :
+<a href="https://medium.com/@edsin.delikumar/empowering-the-future-your-essential-guide-to-the-ai-and-ml-roadmap-159da0fa0481">Click here for Roadmap</a>
+
 
 My Machine Learning Journey 🚀
 Why Just Stick to Full Stack Development or App Development?
