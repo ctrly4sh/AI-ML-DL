@@ -1,4 +1,4 @@
-#Initilizing first tensor
+    #Initilizing first tensor
 
 '''
  What are tensors ?
