@@ -35,3 +35,4 @@ print(tensor_array)
 n_array = numpy.array([[111,222,333],[444,555,666]])
 tensor_numpy = torch.from_numpy(n_array)
 print(tensor_numpy)
+
