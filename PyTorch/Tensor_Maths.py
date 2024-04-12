@@ -51,3 +51,24 @@ y = 4,5,6
 
 z = x * y
 print(z)
+
+#Dot product -> Muliplication and summation of all the elements of the product
+dot_product = torch.dot(x,y)
+print(dot_product)
+
+#Batch matrix Multiplication
+batch = 32
+n = 10
+m = 20
+p = 30
+
+#BroadCasting -> Expands to perform the Mathematical operation legally
+x1 = torch.rand((5,5))
+x2 = torch.rand((1,5))
+
+z = x1 - x2
+z = x1 + x2
+
+#other operations
+sum_x = torch.sum(x , )
+
