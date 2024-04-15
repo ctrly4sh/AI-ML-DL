@@ -1,3 +1,8 @@
+Open Source Contribution:
+
+This repo is open-source, welcoming contributions from anyone interested in joining the journey towards mastering AI and ML technologies. Whether you're a seasoned expert or just starting out[Like me], your insights, suggestions, and contributions are valued and encouraged!
+
+
 Below are some Medium links to follow for detailed roadmaps for -> AI & ML :
 
 Roadmaps : 👇
@@ -48,10 +53,6 @@ Learning Materials:My trusty companion are books:
 \*\*\*Will be adding more free books above
 
 "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. (Got the free PDF version! Find it above)
-
-Open Source Contribution:
-
-This repo is open-source, welcoming contributions from anyone interested in joining the journey towards mastering AI and ML technologies. Whether you're a seasoned expert or just starting out[Like me], your insights, suggestions, and contributions are valued and encouraged!
 
 Stay tuned for updates as I navigate through the exciting world of AI, ML, and beyond! 🌟
 Peace :)
