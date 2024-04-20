@@ -12,7 +12,8 @@ print(characters)
 string_to_int = {ch:i for i,ch in enumerate(characters)}
 print(string_to_int)
 
-temp = {'a','e','i','o','u'}
+int_to_string = {i:ch for i,ch in enumerate(characters)}
 
-temp_string = {ch:i for ch,i in enumerate(temp)}
-print(temp_string)
+#lambda function for encoding and decoding 
+
+
