@@ -27,3 +27,6 @@ data = torch.tensor(encode(text) , dtype=torch.long)
 print(data[:100])
 
 
+
+
+
