@@ -20,11 +20,13 @@ encoded = encode("hello")
 
 decode = lambda l: "".join([int_to_string[i] for i in l])
 decoded = decode(encode("hello"))
-
+    
 # print("encoded is " ,encoded , "Decoded is " , decoded )
 
 data = torch.tensor(encode(text) , dtype=torch.long)
 print(data[:100])
+
+print
 
 
 
